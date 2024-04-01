@@ -1,22 +1,9 @@
 # main links links
 main:
-  - title: "About Me"
-    url: "/#about-me"
+  - title: "GitHub"
+    url: "https://github.com/Bin-Cao"
 
-  - title: "News"
-    url: "/#-news"
+  - title: "Project"
+    url: "https://github.com/WPEM"
 
-  - title: "Publications"
-    url: "/#-publications"
-
-  - title: "Honors and Awards"
-    url: "/#-honors-and-awards"
-
-  - title: "Educations"
-    url: "/#-educations"
-
-  - title: "Invited Talks"
-    url: "/#-invited-talks"
-
-  - title: "Internships"
-    url: "/#-internships"
+  
