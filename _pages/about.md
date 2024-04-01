@@ -17,9 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-CAO Bin is engaged in AI4CM computational materials research, specializing in crystal structure analysis and generation. He employs X-ray spectral analysis technology and machine learning techniques to promote the unrestricted dissemination of knowledge and encourage transparent and accessible research.
+CAO Bin is engaged in AI4CM computational materials research, specializing in crystal structure analysis and generation. He is keen to promote the unrestricted dissemination of knowledge and encourage transparent and accessible research.
 
-His research interests include Physics-Informed Machine Learning Algorithms, X-ray diffraction, Simulation, Refinement, and Crystallography. [Google Scholar Citations](https://scholar.google.com/citations?user=XXCuRdoAAAAJ&hl=zh-CN): **260,000+** (You can also use the Google Scholar badge: [![Google Scholar](https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations)](https://scholar.google.com/citations?user=XXCuRdoAAAAJ&hl=zh-CN)).
+His research interests include Physics-Informed Machine Learning Algorithms, X-ray diffraction, Simulation, Refinement, and Crystallography. [Google Scholar Citations](https://scholar.google.com/citations?user=XXCuRdoAAAAJ&hl=zh-CN)
 
 # 🔥 News
 - *2023.09*: &nbsp;🎉🎉 Pursuing a Ph.D. degree at Hong Kong University of Science and Technology (Gangzhou).
@@ -53,10 +53,11 @@ Jiaxuan Ma, **Bin Cao (co-first author)**, Shuya Dong, Yuan Tian, Menghuan Wang,
 
 - [MLMD: a programming-free AI platform to predict and design materials](https://doi.org/10.1038/s41524-024-01243-4) Ma, J., Cao, B., Dong, S. et al. **npj Comput Mater 10, 59 (2024)**
 
-
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NPJ 2023</div><img src='images/tcgpr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 [Divide and conquer: Machine learning accelerated design of lead-free solder alloys with high strength and high ductility](https://www.nature.com/articles/s41524-023-01150-0)
 Qinghua Wei, **Bin Cao (co-first author)**, Hao Yuan (co-first author), Youyang Chen, Kangdong You, Shuting Yu, Tixin Yang, Ziqiang Dong, Tong-Yi Zhang 
-[**Project**](https://github.com/Bin-Cao/TCGPR) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/Bin-Cao/TCGPR/blob/main/Intro/TCGPR.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - In general, small in size and big in noise, while the design space is huge, by a newly developed data preprocessing algorithm, named the Tree-Classifier for Gaussian Process Regression (TCGPR)... 
 </div>
 </div>
