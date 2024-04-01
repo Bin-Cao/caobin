@@ -32,7 +32,8 @@ His research interests include Physics-Informed Machine Learning Algorithms, X-r
 [Active Learning Accelerates the Discovery of High Strength and High Ductility Lead-Free Solder Alloys](https://www.researchgate.net/publication/377204829_Active_learning_accelerates_the_discovery_of_high_strength_and_high_ductility_lead-free_solder_alloys)
 
 **B Cao**, T Su, S Yu, T Li, T Zhang, Z Dong, TY Zhang
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+[**Project**](https://github.com/Bin-Cao/Bgolearn) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - To facilitate materials informatics development, all active learning algorithms were made open-source in our designed framework, Bgolearn... 
 </div>
 </div>
@@ -46,7 +47,8 @@ His research interests include Physics-Informed Machine Learning Algorithms, X-r
 [MLMD: a programming-free AI platform to predict and design materials](https://www.nature.com/articles/s41524-024-01243-4)
 
 Jiaxuan Ma, **Bin Cao (co-first author)**, Shuya Dong, Yuan Tian, Menghuan Wang, Jie Xiong, Sheng Sun 
-<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+[**Project**](https://github.com/Jiaxuan-Ma/MLMD) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We developed MLMD, an AI platform for materials design. It is capable of effectively discovering novel materials with high-potential advanced properties end-to-end, utilizing model inference, surrogate optimization, and even working in situations of data scarcity based on active learning.. 
 </div>
 </div>
@@ -57,6 +59,7 @@ Jiaxuan Ma, **Bin Cao (co-first author)**, Shuya Dong, Yuan Tian, Menghuan Wang,
 <div class='paper-box-text' markdown="1">
 [Divide and conquer: Machine learning accelerated design of lead-free solder alloys with high strength and high ductility](https://www.nature.com/articles/s41524-023-01150-0)
 Qinghua Wei, **Bin Cao (co-first author)**, Hao Yuan (co-first author), Youyang Chen, Kangdong You, Shuting Yu, Tixin Yang, Ziqiang Dong, Tong-Yi Zhang 
+
 [**Project**](https://github.com/Bin-Cao/TCGPR/blob/main/Intro/TCGPR.pdf) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - In general, small in size and big in noise, while the design space is huge, by a newly developed data preprocessing algorithm, named the Tree-Classifier for Gaussian Process Regression (TCGPR)... 
 </div>
@@ -70,6 +73,7 @@ Qinghua Wei, **Bin Cao (co-first author)**, Hao Yuan (co-first author), Youyang 
 <div class='paper-box-text' markdown="1">
 [Domain knowledge-guided interpretive machine learning: formula discovery for the oxidation behavior of ferritic-martensitic steels in supercritical water](https://www.oaepublish.com/articles/jmi.2022.04)
 **Bin Cao**, Shuang Yang, Ankang Sun, Ziqiang Dong, Tong-Yi Zhang
+
 [**Project**](https://github.com/Bin-Cao/TCLRmodel) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - In this study, we propose a domain knowledge-guided interpretive machine learning strategy and demonstrate it by studying the oxidation behavior of ferritic-martensitic steels in supercritical water... 
 </div>
