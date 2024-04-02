@@ -22,7 +22,15 @@ CAO Bin is engaged in **AI4CM** computational materials research, specializing i
 His research interests include Physics-Informed Machine Learning Algorithms, X-ray diffraction, Simulation, Refinement, and Crystallography. [Google Scholar Citations](https://scholar.google.com/citations?user=XXCuRdoAAAAJ&hl=zh-CN)
 
 # 🔥 News
-- *2023.09*: &nbsp;🎉🎉 Pursuing a Ph.D. degree at Hong Kong University of Science and Technology (Gangzhou).
+- *2024.3*: 🎉🎉 Contributed to the material community by developing [MLMD](https://www.nature.com/articles/s41524-024-01243-4).
+- *2023.09*: 🎉🎉 Embarked on a Ph.D. journey at [Hong Kong University of Science and Technology (Gangzhou)](https://www.hkust-gz.edu.cn/zh/).
+- *2023.7*: 🎉🎉 Established new organization [WPEM](https://github.com/WPEM).
+- *2020.6*: 🎉🎉 Successfully graduated from [SHU](https://www.shu.edu.cn/).
+- *2023.4*: 🎉🎉 Contributed to the community by open-sourcing [TrAdaboost](https://github.com/Bin-Cao/TrAdaboost), a package on transfer learning.
+- *2023.2*: 🎉🎉 Contributed to the community by open-sourcing [Bgolearn](https://github.com/Bin-Cao/Bgolearn), a package on materials optimization.
+- *2022.7*: 🎉🎉 Fostered innovation by releasing [TCGPR](https://github.com/Bin-Cao/TCGPR) as an open-source package.
+- *2021.9*: 🎉🎉 Fostered innovation by releasing [TCLR](https://github.com/Bin-Cao/TCLRmodel) as an open-source package.
+- *2020.6*: 🎉🎉 Successfully graduated from [BUCT](https://www.buct.edu.cn/main.htm), equipped with essential knowledge and skills.
 
 # 📝 Publications 
 
