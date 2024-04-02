@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-CAO Bin is engaged in **AI4CM** computational materials research, specializing in crystal structure analysis and generation. He is keen to promote the unrestricted dissemination of knowledge and encourage **transparent and accessible** research.
+CAO Bin 曹斌 is engaged in **AI4CM** computational materials research, specializing in crystal structure analysis and generation. He is keen to promote the unrestricted dissemination of knowledge and encourage **transparent and accessible** research.
 
 His research interests include Physics-Informed Machine Learning Algorithms, X-ray diffraction, Simulation, Refinement, and Crystallography. [Google Scholar Citations](https://scholar.google.com/citations?user=XXCuRdoAAAAJ&hl=zh-CN)
 
@@ -25,7 +25,7 @@ His research interests include Physics-Informed Machine Learning Algorithms, X-r
 - *2024.3*: 🎉🎉 Contributed to the material community by developing [MLMD](https://www.nature.com/articles/s41524-024-01243-4).
 - *2023.09*: 🎉🎉 Embarked on a Ph.D. journey at [Hong Kong University of Science and Technology (Gangzhou)](https://www.hkust-gz.edu.cn/zh/).
 - *2023.7*: 🎉🎉 Established new organization [WPEM](https://github.com/WPEM).
-- *2020.6*: 🎉🎉 Successfully graduated from [SHU](https://www.shu.edu.cn/).
+- *2023.6*: 🎉🎉 Successfully graduated from [SHU](https://www.shu.edu.cn/).
 - *2023.4*: 🎉🎉 Contributed to the community by open-sourcing [TrAdaboost](https://github.com/Bin-Cao/TrAdaboost), a package on transfer learning.
 - *2023.2*: 🎉🎉 Contributed to the community by open-sourcing [Bgolearn](https://github.com/Bin-Cao/Bgolearn), a package on materials optimization.
 - *2022.7*: 🎉🎉 Fostered innovation by releasing [TCGPR](https://github.com/Bin-Cao/TCGPR) as an open-source package.
