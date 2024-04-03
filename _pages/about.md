@@ -90,6 +90,8 @@ Qinghua Wei, **Bin Cao (co-first author)**, Hao Yuan (co-first author), Youyang 
 
 - [Domain knowledge-guided interpretive machine learning: formula discovery for the oxidation behavior of ferritic-martensitic steels in supercritical water](https://www.oaepublish.com/articles/jmi.2022.04) Cao B, Yang S, Sun A, Dong Z, Zhang TY. **Journal of Materials Informatics(2022)**
 
+---
+
 - `JMST 2024` [Machine learning-assisted composition design of W-free Co-based superalloys with high γ′-solvus temperature and low density](https://www.sciencedirect.com/science/article/pii/S2238785424000401?via%3Dihub)Linlin Sun, **Bin Cao**, Qingshuang Ma, Qiuzhi Gao, Jiahao Luo, Minglong Gong, Jing Bai, Huijun Li 
 
 - `Nano Energy 2023` [Orthorhombic (Ru, Mn)2O3: A superior electrocatalyst for acidic oxygen evolution reaction](https://www.sciencedirect.com/science/article/pii/S2211285523005645?via%3Dihub)Yin Qin, **Bin Cao**, Xiao-Ye Zhou, Zhuorui Xiao, Hanxiang Zhou, Zhenyi Zhao, Yibo Weng, Jianshuai Lv, Yang Liu, Yan-Bing He, Feiyu Kang, Kaikai Li, Tong-Yi Zhang
