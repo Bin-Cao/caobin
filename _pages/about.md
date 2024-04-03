@@ -89,6 +89,12 @@ Qinghua Wei, **Bin Cao (co-first author)**, Hao Yuan (co-first author), Youyang 
 
 - [Domain knowledge-guided interpretive machine learning: formula discovery for the oxidation behavior of ferritic-martensitic steels in supercritical water](https://www.oaepublish.com/articles/jmi.2022.04) Cao B, Yang S, Sun A, Dong Z, Zhang TY. **Journal of Materials Informatics(2022)**
 
++ <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMRT 2024</div>[Machine learning-assisted composition design of W-free Co-based superalloys with high γ′-solvus temperature and low density](https://www.sciencedirect.com/science/article/pii/S2238785424000401?via%3Dihub)Linlin Sun, **Bin Cao**, Qingshuang Ma, Qiuzhi Gao, Jiahao Luo, Minglong Gong, Jing Bai, Huijun Li 
++ <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nano Energy 2023</div>[Orthorhombic (Ru, Mn)2O3: A superior electrocatalyst for acidic oxygen evolution reaction](https://www.sciencedirect.com/science/article/pii/S2211285523005645?via%3Dihub)Yin Qin, **Bin Cao**, Xiao-Ye Zhou, Zhuorui Xiao, Hanxiang Zhou, Zhenyi Zhao, Yibo Weng, Jianshuai Lv, Yang Liu, Yan-Bing He, Feiyu Kang, Kaikai Li, Tong-Yi Zhang
++ <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Materials 2023</div>[Fabricated High-Strength, Low-Elastic Modulus Biomedical Ti-24Nb-4Zr-8Sn Alloy via Powder Metallurgy](https://www.mdpi.com/1996-1944/16/10/3845)Guo, A.X.Y., **Cao, B.**, Wang, Z., Ma, X., Cao, S.C. 
++ <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMST 2023</div>[Discovering a formula for the high temperature oxidation behavior of FeCrAlCoNi based high entropy alloys by domain knowledge-guided machine learning(https://www.sciencedirect.com/science/article/pii/S1005030223000622?via%3Dihub)Qinghua Wei, **Bin Cao**, Lucheng Deng, Ankang Sun, Ziqiang Dong, Tong-Yi Zhang
+
+
 # 🎖 Honors and Awards
 - *2023.6* Outstanding Graduate of Shanghai University
 - *2022.10* National Scholarship Winner 
