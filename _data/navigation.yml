@@ -1,7 +1,5 @@
 # main links links
 main:
-  - title: "About Me"
-    url: "/caobin/tree/main/_pages/about-me"
 
   - title: "Service"
     url: "/caobin/tree/main/_pages/-Service"

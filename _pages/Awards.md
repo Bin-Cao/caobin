@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /caobin/tree/main/_pages/-honors-and-awards
 title: "Honors and Awards"
 excerpt: "Mr. CAO Bin's Profile"
 author_profile: true
