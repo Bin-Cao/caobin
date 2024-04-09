@@ -17,21 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-CAO Bin 曹斌 is engaged in **AI4CM** computational materials research, specializing in crystal structure analysis and generation. He is keen to promote the unrestricted dissemination of knowledge and encourage **transparent and accessible** research.
+CAO Bin 曹斌 
+
+is engaged in **AI4CM** computational materials research, specializing in crystal structure analysis and generation. He is keen to promote the unrestricted dissemination of knowledge and encourage **transparent and accessible** research.
 
 His research interests include Physics-Informed Machine Learning Algorithms, X-ray diffraction, Simulation, Refinement, and Crystallography. [Google Scholar Citations](https://scholar.google.com/citations?user=XXCuRdoAAAAJ&hl=zh-CN)
 
-# 🔥 News
-- *2024.03*: 🎉🎉 Contributed to the material community by developing [MLMD](https://www.nature.com/articles/s41524-024-01243-4).
-- *2023.09*: 🎉🎉 Embarked on a Ph.D. journey at [Hong Kong University of Science and Technology (Gangzhou)](https://www.hkust-gz.edu.cn/zh/).
-- *2023.07*: 🎉🎉 Established new organization [WPEM](https://github.com/WPEM).
-- *2023.06*: 🎉🎉 Successfully graduated from [SHU](https://www.shu.edu.cn/).
-- *2023.04*: 🎉🎉 Contributed to the community by open-sourcing [TrAdaboost](https://github.com/Bin-Cao/TrAdaboost), a package on transfer learning.
-- *2023.02*: 🎉🎉 Contributed to the community by open-sourcing [Bgolearn](https://github.com/Bin-Cao/Bgolearn), a package on materials optimization.
-- *2022.07*: 🎉🎉 Fostered innovation by releasing [TCGPR](https://github.com/Bin-Cao/TCGPR) as an open-source package.
-- *2022.05*: 🎉🎉 My paper has been selected as the cover paper for the May 2022 issue (2:4) of [JMI](https://www.oaepublish.com/articles/jmi.2022.04)
-- *2021.09*: 🎉🎉 Fostered innovation by releasing [TCLR](https://github.com/Bin-Cao/TCLRmodel) as an open-source package.
-- *2020.06*: 🎉🎉 Successfully graduated from [BUCT](https://www.buct.edu.cn/main.htm), equipped with essential knowledge and skills.
 
 # 📝 Publications 
 
@@ -89,31 +80,3 @@ Qinghua Wei, **Bin Cao (co-first author)**, Hao Yuan (co-first author), Youyang 
 </div>
 
 - [Domain knowledge-guided interpretive machine learning: formula discovery for the oxidation behavior of ferritic-martensitic steels in supercritical water](https://www.oaepublish.com/articles/jmi.2022.04) Cao B, Yang S, Sun A, Dong Z, Zhang TY. **Journal of Materials Informatics(2022)**
-
----
-
-- `JMST 2024` [Machine learning-assisted composition design of W-free Co-based superalloys with high γ′-solvus temperature and low density](https://www.sciencedirect.com/science/article/pii/S2238785424000401?via%3Dihub)Linlin Sun, **Bin Cao**, Qingshuang Ma, Qiuzhi Gao, Jiahao Luo, Minglong Gong, Jing Bai, Huijun Li 
-
-- `Nano Energy 2023` [Orthorhombic (Ru, Mn)2O3: A superior electrocatalyst for acidic oxygen evolution reaction](https://www.sciencedirect.com/science/article/pii/S2211285523005645?via%3Dihub)Yin Qin, **Bin Cao**, Xiao-Ye Zhou, Zhuorui Xiao, Hanxiang Zhou, Zhenyi Zhao, Yibo Weng, Jianshuai Lv, Yang Liu, Yan-Bing He, Feiyu Kang, Kaikai Li, Tong-Yi Zhang
-
-- `Materials 2023` [Fabricated High-Strength, Low-Elastic Modulus Biomedical Ti-24Nb-4Zr-8Sn Alloy via Powder Metallurgy](https://www.mdpi.com/1996-1944/16/10/3845)Guo, A.X.Y., **Cao, B.**, Wang, Z., Ma, X., Cao, S.C. 
-
-- `JMST 2023` [Discovering a formula for the high temperature oxidation behavior of FeCrAlCoNi based high entropy alloys by domain knowledge-guided machine learning](https://www.sciencedirect.com/science/article/pii/S1005030223000622?via%3Dihub)Qinghua Wei, **Bin Cao**, Lucheng Deng, Ankang Sun, Ziqiang Dong, Tong-Yi Zhang
-
-
-
-# 🎖 Honors and Awards
-- *2023.6* Outstanding Graduate of Shanghai University
-- *2022.10* National Scholarship Winner 
-
-# 📖 Education
-- *2023.09 - 2026.06 (Ongoing)*: Doctorate in Advanced Materials, AI4CM, Hong Kong University of Science and Technology, Guangzhou, China.
-- *2020.09 - 2023.06*: Master of Philosophy in Materials Informatics, Shanghai University, Shanghai, China 
-- *2016.09 - 2020.06*: Bachelor of Mechanical Engineering, Beijing University of Chemical Technology, Beijing, China 
-
-# 💬 Invited Talks
-- *2023*: National Symposium on Data-Driven Computational Mechanics, Dalian, Oral report. 
-- *2021*: Chinese Materials Conference, Xiamen, Poster Presentation. 
-
-# 💻 Internships
-- *2023.03 - 2023.09*: [Zhejiang Lab](https://www.zhejianglab.cn/lab/home), China.

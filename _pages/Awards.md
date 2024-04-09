@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "Honors and Awards"
 excerpt: "Mr. CAO Bin's Profile"
 author_profile: true
 redirect_from: 
