@@ -1,11 +1,8 @@
 ---
-permalink: /caobin/tree/main/_pages/-honors-and-awards
+permalink: /-honors-and-awards
 title: "Honors and Awards"
 excerpt: "Mr. CAO Bin's Profile"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}

@@ -1,26 +1,28 @@
 # main links links
 main:
+  - title: "About Me"
+    url: "/about-me"
 
   - title: "Service"
-    url: "/caobin/tree/main/_pages/-Service"
+    url: "/-Service"
 
   - title: "News"
-    url: "/caobin/tree/main/_pages/-news"
+    url: "/-news"
 
   - title: "Publications"
-    url: "/caobin/tree/main/_pages/-publications"
+    url: "/-publications"
 
   - title: "Honors and Awards"
-    url: "/caobin/tree/main/_pages/-honors-and-awards"
+    url: "/-honors-and-awards"
 
   - title: "Educations"
-    url: "/caobin/tree/main/_pages/-educations"
+    url: "/-educations"
 
   - title: "Invited Talks"
-    url: "/caobin/tree/main/_pages/-invited-talks"
+    url: "/-invited-talks"
 
   - title: "Internships"
-    url: "/caobin/tree/main/_pages/-internships"
+    url: "/-internships"
 
   - title: "Project"
     url: "https://github.com/WPEM"
