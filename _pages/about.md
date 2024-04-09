@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-CAO Bin 曹斌 
+**CAO Bin 曹斌**
 
 is engaged in **AI4CM** computational materials research, specializing in crystal structure analysis and generation. He is keen to promote the unrestricted dissemination of knowledge and encourage **transparent and accessible** research.
 
