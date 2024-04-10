@@ -3,6 +3,10 @@ permalink: /-Service
 title: "Service"
 excerpt: "Mr. CAO Bin's Profile"
 author_profile: true
+redirect_from: 
+  - /
+  - /about/
+  - /about.html
 ---
 
 {% if site.google_scholar_stats_use_cdn %}
