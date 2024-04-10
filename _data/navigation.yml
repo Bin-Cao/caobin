@@ -1,10 +1,13 @@
 # main links 
 main:
-  - title: "Service"
-    url: "/caobin/-Service"
+  - title: "about"
+    url: "about-me"
 
   - title: "News"
     url: "/caobin/-news"
+
+  - title: "Service"
+    url: "/caobin/-Service"
 
   - title: "Publications"
     url: "/caobin/-publications"
