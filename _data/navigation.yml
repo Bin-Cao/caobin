@@ -1,7 +1,7 @@
 # main links 
 main:
   - title: "about"
-    url: "about-me"
+    url: "/caobin/about-me"
 
   - title: "News"
     url: "/caobin/-news"
