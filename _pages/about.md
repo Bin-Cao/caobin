@@ -30,7 +30,7 @@ His research interests include Physics-Informed Machine Learning Algorithms, X-r
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">M&D 2024</div><img src='images/bgolearn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Active Learning Accelerates the Discovery of High Strength and High Ductility Lead-Free Solder Alloys](https://www.researchgate.net/publication/377204829_Active_learning_accelerates_the_discovery_of_high_strength_and_high_ductility_lead-free_solder_alloys)
+[Active Learning Accelerates the Discovery of High Strength and High Ductility Lead-Free Solder Alloys](https://doi.org/10.1016/j.matdes.2024.112921)
 
 **B Cao**, T Su, S Yu, T Li, T Zhang, Z Dong, TY Zhang
 
@@ -39,7 +39,7 @@ His research interests include Physics-Informed Machine Learning Algorithms, X-r
 </div>
 </div>
 
-- [Active Learning Accelerates the Discovery of High Strength and High Ductility Lead-Free Solder Alloys](https://www.researchgate.net/publication/377204829_Active_learning_accelerates_the_discovery_of_high_strength_and_high_ductility_lead-free_solder_alloys) B Cao, T Su, S Yu, T Li, T Zhang, Z Dong, TY Zhang **Material & Design (preprint)**
+- [Active Learning Accelerates the Discovery of High Strength and High Ductility Lead-Free Solder Alloys](https://doi.org/10.1016/j.matdes.2024.112921) B Cao, T Su, S Yu, T Li, T Zhang, Z Dong, TY Zhang **Material & Design**
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NPJ 2024</div><img src='images/MLMD.png' alt="sym" width="100%"></div></div>

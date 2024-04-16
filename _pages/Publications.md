@@ -23,7 +23,7 @@ redirect_from:
 
 
 
-- `MD 2024` [Active Learning Accelerates the Discovery of High Strength and High Ductility Lead-Free Solder Alloys](https://www.researchgate.net/publication/377204829_Active_learning_accelerates_the_discovery_of_high_strength_and_high_ductility_lead-free_solder_alloys) **B Cao**, T Su, S Yu, T Li, T Zhang, Z Dong, TY Zhang
+- `MD 2024` [Active Learning Accelerates the Discovery of High Strength and High Ductility Lead-Free Solder Alloys](https://doi.org/10.1016/j.matdes.2024.112921) **B Cao**, T Su, S Yu, T Li, T Zhang, Z Dong, TY Zhang
 
 - `npj 2024` [MLMD: a programming-free AI platform to predict and design materials](https://www.nature.com/articles/s41524-024-01243-4) Jiaxuan Ma, **Bin Cao (co-first author)**, Shuya Dong, Yuan Tian, Menghuan Wang, Jie Xiong, Sheng Sun 
 
