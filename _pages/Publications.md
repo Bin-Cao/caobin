@@ -21,7 +21,7 @@ redirect_from:
 
 # 📝 Publications 
 
-
+- `Chem Eng J 2024` [A Li-rich layered oxide cathode with remarkable capacity and prolonged cycle life](https://www.sciencedirect.com/science/article/pii/S1385894724030092) Tongxing Lei, **Bin Cao**, Wenbo Fu, Xiuling Shi, Zhiyu Ding, Qi Zhang, Junwei Wu, Kaikai Li, Tong-Yi Zhang,
 
 - `MD 2024` [Active Learning Accelerates the Discovery of High Strength and High Ductility Lead-Free Solder Alloys](https://doi.org/10.1016/j.matdes.2024.112921) **B Cao**, T Su, S Yu, T Li, T Zhang, Z Dong, TY Zhang
 
