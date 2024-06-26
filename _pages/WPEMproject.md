@@ -46,7 +46,7 @@ We are open to extensive collaborations and offer support in X-ray diffraction p
 <div class='paper-box'>
   <div class='paper-box-image'>
     <div>
-      <div class="badge">arXiv 2024</div>
+      <div class="badge">IUCrJ 2024</div>
       <img src='images/cpi.png' alt="sym" width="100%">
     </div>
   </div>
