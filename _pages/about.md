@@ -38,7 +38,7 @@ His research interests include Physics-Informed Machine Learning Algorithms, X-r
   - In this work, a large open-source dataset of powder XRD patterns designed for symmetry identification. 21 existing ML models are assessed, summarizing the XRD sequence data characteristics, and providing suggestions for the further development of ML models best suited for analyzing XRD patterns.
   </div>
 </div>
-- [SimXRD-4M: Big Simulated X-ray Diffraction Data Accelerate the Crystalline Symmetry Classification](https://arxiv.org/html/2406.15469v1)**Bin Cao**, Yang Liu, Zinan Zheng, Ruifeng Tan, Jia Li, Tong-yi Zhang
+- [SimXRD-4M: Big Simulated X-ray Diffraction Data Accelerate the Crystalline Symmetry Classification](https://arxiv.org/html/2406.15469v1)**Bin Cao**, Yang Liu, Zinan Zheng, Ruifeng Tan, Jia Li, Tong-yi Zhang **arXiv**
 
 <div class='paper-box'>
   <div class='paper-box-image'>
@@ -57,7 +57,7 @@ His research interests include Physics-Informed Machine Learning Algorithms, X-r
   - In this work, we developed a machine learning phase identifier that achieved excellent performance within a relatively small scope.
 </div>
 </div>
-- [Crystallographic Phase Identifier of a Convolutional Self-Attention Neural Network (CPICANN) on Powder Diffraction Patterns](https://doi.org/10.1107/S2052252524005323)Shouyang Zhang, **Bin Cao (co-first)**, Tianhao Su, Yue Wu, Zhenjie Feng, Jie Xiong, Tong-Yi Zhang
+- [Crystallographic Phase Identifier of a Convolutional Self-Attention Neural Network (CPICANN) on Powder Diffraction Patterns](https://doi.org/10.1107/S2052252524005323)Shouyang Zhang, **Bin Cao (co-first)**, Tianhao Su, Yue Wu, Zhenjie Feng, Jie Xiong, Tong-Yi Zhang **IUCrJ**
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">M&D 2024</div><img src='images/bgolearn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
