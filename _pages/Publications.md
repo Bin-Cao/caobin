@@ -21,7 +21,12 @@ redirect_from:
 
 # 📝 Publications 
 
-- `Chem Eng J 2024` [A Li-rich layered oxide cathode with remarkable capacity and prolonged cycle life](https://www.sciencedirect.com/science/article/pii/S1385894724030092) Tongxing Lei, **Bin Cao**, Wenbo Fu, Xiuling Shi, Zhiyu Ding, Qi Zhang, Junwei Wu, Kaikai Li, Tong-Yi Zhang,
+- `arXiv 2024`   [SimXRD-4M: Big Simulated X-ray Diffraction Data Accelerate the Crystalline Symmetry Classification](https://arxiv.org/html/2406.15469v1) **Bin Cao**, Yang Liu, Zinan Zheng, Ruifeng Tan, Jia Li, Tong-yi Zhang
+
+
+- `IUCrJ 2024` [Crystallographic Phase Identifier of a Convolutional Self-Attention Neural Network (CPICANN) on Powder Diffraction Patterns](https://doi.org/10.1107/S2052252524005323) Shouyang Zhang, **Bin Cao (co-first)**, Tianhao Su, Yue Wu, Zhenjie Feng, Jie Xiong, Tong-Yi Zhang
+
+- `Chem Eng J 2024` [A Li-rich layered oxide cathode with remarkable capacity and prolonged cycle life](https://www.sciencedirect.com/science/article/pii/S1385894724030092) Tongxing Lei, **Bin Cao**, Wenbo Fu, Xiuling Shi, Zhiyu Ding, Qi Zhang, Junwei Wu, Kaikai Li, Tong-Yi Zhang
 
 - `MD 2024` [Active Learning Accelerates the Discovery of High Strength and High Ductility Lead-Free Solder Alloys](https://doi.org/10.1016/j.matdes.2024.112921) **B Cao**, T Su, S Yu, T Li, T Zhang, Z Dong, TY Zhang
 

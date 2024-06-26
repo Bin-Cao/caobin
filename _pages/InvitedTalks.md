@@ -19,5 +19,6 @@ redirect_from:
 <span class='anchor' id='-invited-talks'></span>
 
 # 💬 Invited Talks
+- *2024*: X-ray technology progress seminar, Guangzhou, Oral report.
 - *2023*: National Symposium on Data-Driven Computational Mechanics, Dalian, Oral report. 
-- *2021*: Chinese Materials Conference, Xiamen, Poster Presentation. 
+
