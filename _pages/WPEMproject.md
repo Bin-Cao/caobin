@@ -1,4 +1,3 @@
-
 ---
 permalink: /-wpem
 title: "Educations"
