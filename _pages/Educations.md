@@ -19,6 +19,6 @@ redirect_from:
 <span class='anchor' id='-educations'></span>
 
 # 📖 Education
-- *2023.09 - 2026.06 (Ongoing)*: Doctorate in Advanced Materials, AI4CM, Hong Kong University of Science and Technology, Guangzhou, China.
-- *2020.09 - 2023.06*: Master of Philosophy in Materials Informatics, Shanghai University, Shanghai, China 
+- *2023.09 - 2026.06 (Ongoing)*: Doctorate in Advanced Materials, AI4CM, Hong Kong University of Science and Technology, Guangzhou, China. (SV : Prof. [Zhang Tong-yi](https://gbaaa.org.hk/en-us/article/67))
+- *2020.09 - 2023.06*: Master of Philosophy in Materials Informatics, Shanghai University, Shanghai, China (SV : Prof. [Zhang Tong-yi](https://gbaaa.org.hk/en-us/article/67))
 - *2016.09 - 2020.06*: Bachelor of Mechanical Engineering, Beijing University of Chemical Technology, Beijing, China 

@@ -22,7 +22,9 @@ redirect_from:
 
 is engaged in **AI4CM** computational materials research, specializing in crystal structure analysis and generation. He is keen to promote the unrestricted dissemination of knowledge and encourage **transparent and accessible** research.
 
-His research interests include Physics-Informed Machine Learning Algorithms, X-ray diffraction, Simulation, Refinement, and Crystallography. [Google Scholar Citations](https://scholar.google.com/citations?user=XXCuRdoAAAAJ&hl=zh-CN)
+My research interests include Physics-Informed Machine Learning Algorithms, X-ray diffraction, Simulation, Refinement, and Crystallography. [Google Scholar Citations](https://scholar.google.com/citations?user=XXCuRdoAAAAJ&hl=zh-CN)
+
+I am currently studying at HKUST(GZ) under the supervision of Professor [Zhang Tong-yi](https://gbaaa.org.hk/en-us/article/67).
 
 
 # 📝 Publications 
