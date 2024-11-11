@@ -35,7 +35,7 @@ I am currently studying at HKUST(GZ) under the supervision of Professor [Zhang T
 
   Tianhao Su, **Bin Cao(co-first author)**, Shunbo Hu, Musen Li, Tong-yi Zhang
 
-  [**Crystal Generative Framework**](https://arxiv.org/html/2406.15469v1) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  [**Crystal Generative Framework**](https://www.oaepublish.com/articles/jmi.2024.24) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
   - In this work, we present a crystal generative framework based on Wyckoff generative adversarial network (CGWGAN) to efficiently discover novel crystals.
   </div>
