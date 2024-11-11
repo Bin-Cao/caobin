@@ -21,6 +21,11 @@ redirect_from:
 
 # 📝 Publications 
 
+- `JMI 2024` [CGWGAN: crystal generative framework based on Wyckoff generative adversarial network](https://www.oaepublish.com/articles/jmi.2024.24) Tianhao Su, **Bin Cao(co-first author)**, Shunbo Hu, Musen Li, Tong-yi Zhang **JPS**
+
+- `JPS 2024` [A universal strategy towards high-rate and ultralong-life of Li-rich Mn- based cathode materials](https://www.sciencedirect.com/science/article/pii/S0378775324010966) Fu, W., Lei, T., **Cao, B.**, Shi, X., Zhang, Q., Ding, Z., ... & Wu, J.  **Journal of Power Sources**
+
+
 - `arXiv 2024`   [SimXRD-4M: Big Simulated X-ray Diffraction Data Accelerate the Crystalline Symmetry Classification](https://arxiv.org/html/2406.15469v1) **Bin Cao**, Yang Liu, Zinan Zheng, Ruifeng Tan, Jia Li, Tong-yi Zhang
 
 
