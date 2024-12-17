@@ -20,7 +20,7 @@ redirect_from:
 
 
 # 🔥 News
-- *2024.11*: Successfully passed the Ph.D. qualification examination. Topic: Diffraction Theory-Informed AI for Crystal Analysis via Powder X-ray Diffraction
+- *2024.11*: 🎉🎉 Successfully passed the Ph.D. qualification examination. Topic: Diffraction Theory-Informed AI for Crystal Analysis via Powder X-ray Diffraction
 - *2024.07*: 🎉🎉 Outstanding Young Academic Presentation Award at the [2024 China Materials Conference](https://gdstc.gd.gov.cn/gkmlpt/content/4/4455/post_4455625.html#726).
 - *2024.03*: 🎉🎉 Contributed to the material community by developing [MLMD](https://www.nature.com/articles/s41524-024-01243-4).
 - *2023.09*: 🎉🎉 Embarked on a Ph.D. journey at [Hong Kong University of Science and Technology (Gangzhou)](https://www.hkust-gz.edu.cn/zh/).

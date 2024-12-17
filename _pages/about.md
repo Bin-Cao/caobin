@@ -29,7 +29,7 @@ I am currently studying at HKUST(GZ) under the supervision of Professor [Zhang T
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMI 2024</div><img src='images/small_li.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SMALL 2024</div><img src='images/small_li.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   [Machine Learning-Engineered Nanozyme System for Synergistic Anti-Tumor Ferroptosis/Apoptosis Therapy](https://onlinelibrary.wiley.com/doi/10.1002/smll.202408750)
 
