@@ -29,6 +29,24 @@ I am currently studying at HKUST(GZ) under the supervision of Professor [Zhang T
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMI 2024</div><img src='images/small_li.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  [Machine Learning-Engineered Nanozyme System for Synergistic Anti-Tumor Ferroptosis/Apoptosis Therapy](https://onlinelibrary.wiley.com/doi/10.1002/smll.202408750)
+
+  Tianliang Li, **Bin Cao(co-first author)**,  Tianhao Su, ..., Lingyan Feng, Tong-yi Zhang
+
+  [**TCGPR+Bgolearn**](https://onlinelibrary.wiley.com/doi/10.1002/smll.202408750) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+  - A novel ML model, termed the sequential backward Tree-Classifier for Gaussian Process Regression (TCGPR), is proposed to improve data pattern recognition following the divide-and-conquer principle.
+  </div>
+</div>
+- [Machine Learning-Engineered Nanozyme System for Synergistic Anti-Tumor Ferroptosis/Apoptosis Therapy](https://onlinelibrary.wiley.com/doi/10.1002/smll.202408750) Tianliang Li, **Bin Cao(co-first author)**,  Tianhao Su, ..., Lingyan Feng, Tong-yi Zhang **SMALL**
+
+
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMI 2024</div><img src='images/cgwgan.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   [CGWGAN: crystal generative framework based on Wyckoff generative adversarial network](https://www.oaepublish.com/articles/jmi.2024.24)
