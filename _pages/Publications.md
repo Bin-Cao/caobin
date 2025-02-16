@@ -19,7 +19,7 @@ redirect_from:
 <span class='anchor' id='-publications'></span>
 
 
-# 📝 Publications 
+# 📝 Selected Publications (first/co-first)
 - `ICLR 2025` [SimXRD-4M: Big Simulated X-ray Diffraction Data and Crystal Symmetry Classification Benchmark](https://openreview.net/pdf?id=mkuB677eMM) **Bin Cao**,  Yang Liu, Zinan Zheng, Ruifeng Tan, Jia Li, Tong-yi Zhang. **ICLR2025**
 
 
