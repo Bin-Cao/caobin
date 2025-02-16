@@ -35,7 +35,7 @@ I am currently studying at HKUST(GZ) under the supervision of Professor [Zhang T
 
   **Bin Cao**,  Yang Liu, Zinan Zheng, Ruifeng Tan, Jia Li, Tong-yi Zhang
 
-  [**SimXRD-4M**](hhttps://openreview.net/pdf?id=mkuB677eMM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+  [**SimXRD-4M**](https://openreview.net/pdf?id=mkuB677eMM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
   - We developed a novel XRD simulation method that incorporates comprehensive physical interactions, resulting in a high-fidelity database.
   </div>
