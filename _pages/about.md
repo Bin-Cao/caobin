@@ -40,7 +40,7 @@ I am currently studying at HKUST(GZ) under the supervision of Professor [Zhang T
   - We developed a novel XRD simulation method that incorporates comprehensive physical interactions, resulting in a high-fidelity database.
   </div>
 </div>
-- [SimXRD-4M: Big Simulated X-ray Diffraction Data and Crystal Symmetry Classification Benchmark](https://openreview.net/pdf?id=mkuB677eMM) **Bin Cao**,  Yang Liu, Zinan Zheng, Ruifeng Tan, Jia Li, Tong-yi Zhang, **ICLR2025**
+- [SimXRD-4M: Big Simulated X-ray Diffraction Data and Crystal Symmetry Classification Benchmark](https://openreview.net/pdf?id=mkuB677eMM) **Bin Cao**,  Yang Liu, Zinan Zheng, Ruifeng Tan, Jia Li, Tong-yi Zhang, **ICLR2025** (Top-tier AI conference)
 
 
 
@@ -56,7 +56,7 @@ I am currently studying at HKUST(GZ) under the supervision of Professor [Zhang T
   - A novel ML model, termed the sequential backward Tree-Classifier for Gaussian Process Regression (TCGPR), is proposed to improve data pattern recognition following the divide-and-conquer principle.
   </div>
 </div>
-- [Machine Learning-Engineered Nanozyme System for Synergistic Anti-Tumor Ferroptosis/Apoptosis Therapy](https://onlinelibrary.wiley.com/doi/10.1002/smll.202408750) Tianliang Li, **Bin Cao(co-first author)**,  Tianhao Su, ..., Lingyan Feng, Tong-yi Zhang **SMALL**
+- [Machine Learning-Engineered Nanozyme System for Synergistic Anti-Tumor Ferroptosis/Apoptosis Therapy](https://onlinelibrary.wiley.com/doi/10.1002/smll.202408750) Tianliang Li, **Bin Cao(co-first author)**,  Tianhao Su, ..., Lingyan Feng, Tong-yi Zhang **SMALL** (JCR Q1)
 
 
 
@@ -73,7 +73,8 @@ I am currently studying at HKUST(GZ) under the supervision of Professor [Zhang T
   - In this work, we present a crystal generative framework based on Wyckoff generative adversarial network (CGWGAN) to efficiently discover novel crystals.
   </div>
 </div>
-- [CGWGAN: crystal generative framework based on Wyckoff generative adversarial network](https://www.oaepublish.com/articles/jmi.2024.24)Tianhao Su, **Bin Cao(co-first author)**, Shunbo Hu, Musen Li, Tong-yi Zhang **JMI**
+- [CGWGAN: crystal generative framework based on Wyckoff generative adversarial network](https://www.oaepublish.com/articles/jmi.2024.24)Tianhao Su, **Bin Cao(co-first author)**, Shunbo Hu, Musen Li, Tong-yi Zhang **JMI** (New journal led by my supervisor, Prof. Zhang Tongyi.)
+
 
 
 
@@ -89,7 +90,7 @@ I am currently studying at HKUST(GZ) under the supervision of Professor [Zhang T
   - By coarse-graining sites belonging to conjugate subgroups and analyzing reciprocal space through powder X-ray diffraction patterns, our model predicts key physical properties, including formation energy, band gap, bulk modulus and metal/non-metal classification. 
   </div>
 </div>
-- [ASUGNN: an asymmetric-unit-based graph neural network for crystal property prediction](https://journals.iucr.org/paper?S1600576724011336)**B. Cao**, D. Anderson, L. Davis. **J. Appl. Cryst.**
+- [ASUGNN: an asymmetric-unit-based graph neural network for crystal property prediction](https://journals.iucr.org/paper?S1600576724011336)**B. Cao**, D. Anderson, L. Davis. **J. Appl. Cryst.**  (JCR Q1)
 
 
 
@@ -124,7 +125,7 @@ I am currently studying at HKUST(GZ) under the supervision of Professor [Zhang T
   - In this work, we developed a machine learning phase identifier that achieved excellent performance within a relatively small scope.
 </div>
 </div>
-- [Crystallographic Phase Identifier of a Convolutional Self-Attention Neural Network (CPICANN) on Powder Diffraction Patterns](https://doi.org/10.1107/S2052252524005323)Shouyang Zhang, **Bin Cao (co-first)**, Tianhao Su, Yue Wu, Zhenjie Feng, Jie Xiong, Tong-Yi Zhang **IUCrJ**
+- [Crystallographic Phase Identifier of a Convolutional Self-Attention Neural Network (CPICANN) on Powder Diffraction Patterns](https://doi.org/10.1107/S2052252524005323)Shouyang Zhang, **Bin Cao (co-first)**, Tianhao Su, Yue Wu, Zhenjie Feng, Jie Xiong, Tong-Yi Zhang **IUCrJ** (JCR Q1)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">M&D 2024</div><img src='images/bgolearn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -138,7 +139,7 @@ I am currently studying at HKUST(GZ) under the supervision of Professor [Zhang T
 </div>
 </div>
 
-- [Active Learning Accelerates the Discovery of High Strength and High Ductility Lead-Free Solder Alloys](https://doi.org/10.1016/j.matdes.2024.112921) B Cao, T Su, S Yu, T Li, T Zhang, Z Dong, TY Zhang **Material & Design**
+- [Active Learning Accelerates the Discovery of High Strength and High Ductility Lead-Free Solder Alloys](https://doi.org/10.1016/j.matdes.2024.112921) B Cao, T Su, S Yu, T Li, T Zhang, Z Dong, TY Zhang **Material & Design** (JCR Q1)
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NPJ 2024</div><img src='images/MLMD.png' alt="sym" width="100%"></div></div>
@@ -153,7 +154,7 @@ Jiaxuan Ma, **Bin Cao (co-first author)**, Shuya Dong, Yuan Tian, Menghuan Wang,
 </div>
 </div>
 
-- [MLMD: a programming-free AI platform to predict and design materials](https://doi.org/10.1038/s41524-024-01243-4) Ma, J., **Cao, B(co-first)**., Dong, S. et al. **npj Comput Mater 10, 59 (2024)**
+- [MLMD: a programming-free AI platform to predict and design materials](https://doi.org/10.1038/s41524-024-01243-4) Ma, J., **Cao, B(co-first)**., Dong, S. et al. **npj Comput Mater 10, 59 (2024)** (JCR Q1)
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NPJ 2023</div><img src='images/tcgprr.png' alt="sym" width="100%"></div></div>
@@ -166,7 +167,7 @@ Qinghua Wei, **Bin Cao (co-first author)**, Hao Yuan (co-first author), Youyang 
 </div>
 </div>
 
-- [Divide and conquer: Machine learning accelerated design of lead-free solder alloys with high strength and high ductility](https://www.nature.com/articles/s41524-023-01150-0). Qinghua Wei, **Bin Cao (co-first author)**, Hao Yuan (co-first author), Youyang Chen, Kangdong You, Shuting Yu, Tixin Yang, Ziqiang Dong, Tong-Yi Zhang **npj Comput Mater 201 (2023)**
+- [Divide and conquer: Machine learning accelerated design of lead-free solder alloys with high strength and high ductility](https://www.nature.com/articles/s41524-023-01150-0). Qinghua Wei, **Bin Cao (co-first author)**, Hao Yuan (co-first author), Youyang Chen, Kangdong You, Shuting Yu, Tixin Yang, Ziqiang Dong, Tong-Yi Zhang **npj Comput Mater 201 (2023)** (JCR Q1)
 
 
 
@@ -180,7 +181,8 @@ Qinghua Wei, **Bin Cao (co-first author)**, Hao Yuan (co-first author), Youyang 
 </div>
 </div>
 
-- [Domain knowledge-guided interpretive machine learning: formula discovery for the oxidation behavior of ferritic-martensitic steels in supercritical water](https://www.oaepublish.com/articles/jmi.2022.04) **Cao B**, Yang S, Sun A, Dong Z, Zhang TY. **Journal of Materials Informatics(2022)**
+- [Domain knowledge-guided interpretive machine learning: formula discovery for the oxidation behavior of ferritic-martensitic steels in supercritical water](https://www.oaepublish.com/articles/jmi.2022.04) **Cao B**, Yang S, Sun A, Dong Z, Zhang TY. **Journal of Materials Informatics(2022)** (New journal led by my supervisor, Prof. Zhang Tongyi.)
+
 
 
 
