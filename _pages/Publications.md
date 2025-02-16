@@ -27,6 +27,8 @@ redirect_from:
 
 - `JMI 2024` [CGWGAN: crystal generative framework based on Wyckoff generative adversarial network](https://www.oaepublish.com/articles/jmi.2024.24) Tianhao Su, **Bin Cao(co-first author)**, Shunbo Hu, Musen Li, Tong-yi Zhang. **JMI**
 
+- `JAC 2024` [ASUGNN: an asymmetric-unit-based graph neural network for crystal property prediction](https://journals.iucr.org/paper?S1600576724011336)**B. Cao**, D. Anderson, L. Davis. **J. Appl. Cryst.**
+
 - `JPS 2024` [A universal strategy towards high-rate and ultralong-life of Li-rich Mn- based cathode materials](https://www.sciencedirect.com/science/article/pii/S0378775324010966) Fu, W., Lei, T., **Cao, B.**, Shi, X., Zhang, Q., Ding, Z., ... & Wu, J.  **Journal of Power Sources**
 
 

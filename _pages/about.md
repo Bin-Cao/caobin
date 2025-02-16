@@ -79,6 +79,22 @@ I am currently studying at HKUST(GZ) under the supervision of Professor [Zhang T
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Appl. Cryst. 2024</div><img src='images/asugnn.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  [ASUGNN: an asymmetric-unit-based graph neural network for crystal property prediction](https://journals.iucr.org/paper?S1600576724011336)
+
+  **B. Cao**, D. Anderson, L. Davis
+
+  [**Crystal Generative Framework**](https://journals.iucr.org/paper?S1600576724011336) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+  - By coarse-graining sites belonging to conjugate subgroups and analyzing reciprocal space through powder X-ray diffraction patterns, our model predicts key physical properties, including formation energy, band gap, bulk modulus and metal/non-metal classification. 
+  </div>
+</div>
+- [ASUGNN: an asymmetric-unit-based graph neural network for crystal property prediction](https://journals.iucr.org/paper?S1600576724011336)**B. Cao**, D. Anderson, L. Davis. **J. Appl. Cryst.**
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2024</div><img src='images/simxrd.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   [SimXRD-4M: Big Simulated X-ray Diffraction Data Accelerate the Crystalline Symmetry Classification](https://arxiv.org/html/2406.15469v1)
