@@ -20,6 +20,9 @@ redirect_from:
 
 
 # 📝 Publications 
+- `ICLR 2025` [SimXRD-4M: Big Simulated X-ray Diffraction Data and Crystal Symmetry Classification Benchmark](https://openreview.net/pdf?id=mkuB677eMM) **Bin Cao**,  Yang Liu, Zinan Zheng, Ruifeng Tan, Jia Li, Tong-yi Zhang. **ICLR2025**
+
+
 - `SMALL 2024` [Machine Learning-Engineered Nanozyme System for Synergistic Anti-Tumor Ferroptosis/Apoptosis Therapy](https://onlinelibrary.wiley.com/doi/10.1002/smll.202408750) Tianliang Li, **Bin Cao(co-first author)**,  Tianhao Su, ..., Lingyan Feng, Tong-yi Zhang. **SMALL**
 
 - `JMI 2024` [CGWGAN: crystal generative framework based on Wyckoff generative adversarial network](https://www.oaepublish.com/articles/jmi.2024.24) Tianhao Su, **Bin Cao(co-first author)**, Shunbo Hu, Musen Li, Tong-yi Zhang. **JMI**

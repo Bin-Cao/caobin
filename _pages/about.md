@@ -29,6 +29,22 @@ I am currently studying at HKUST(GZ) under the supervision of Professor [Zhang T
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/simxrdiclr.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  [SimXRD-4M: Big Simulated X-ray Diffraction Data and Crystal Symmetry Classification Benchmark](https://openreview.net/pdf?id=mkuB677eMM)
+
+  **Bin Cao**,  Yang Liu, Zinan Zheng, Ruifeng Tan, Jia Li, Tong-yi Zhang
+
+  [**SimXRD-4M**](hhttps://openreview.net/pdf?id=mkuB677eMM) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+  - We developed a novel XRD simulation method that incorporates comprehensive physical interactions, resulting in a high-fidelity database.
+  </div>
+</div>
+- [SimXRD-4M: Big Simulated X-ray Diffraction Data and Crystal Symmetry Classification Benchmark](https://openreview.net/pdf?id=mkuB677eMM) **Bin Cao**,  Yang Liu, Zinan Zheng, Ruifeng Tan, Jia Li, Tong-yi Zhang, **ICLR2025**
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">SMALL 2024</div><img src='images/small_li.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   [Machine Learning-Engineered Nanozyme System for Synergistic Anti-Tumor Ferroptosis/Apoptosis Therapy](https://onlinelibrary.wiley.com/doi/10.1002/smll.202408750)
