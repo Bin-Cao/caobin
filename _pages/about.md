@@ -62,7 +62,6 @@ I am currently studying at HKUST(GZ) under the supervision of Professor [Zhang T
 
 
 
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JMI 2024</div><img src='images/cgwgan.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   [CGWGAN: crystal generative framework based on Wyckoff generative adversarial network](https://www.oaepublish.com/articles/jmi.2024.24)
@@ -79,7 +78,7 @@ I am currently studying at HKUST(GZ) under the supervision of Professor [Zhang T
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Appl. Cryst. 2024</div><img src='images/asugnn.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Appl. Cryst. 2024</div><img src='images/asugnn.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   [ASUGNN: an asymmetric-unit-based graph neural network for crystal property prediction](https://journals.iucr.org/paper?S1600576724011336)
 
@@ -155,6 +154,7 @@ Jiaxuan Ma, **Bin Cao (co-first author)**, Shuya Dong, Yuan Tian, Menghuan Wang,
 </div>
 
 - [MLMD: a programming-free AI platform to predict and design materials](https://doi.org/10.1038/s41524-024-01243-4) Ma, J., **Cao, B(co-first)**., Dong, S. et al. **npj Comput Mater 10, 59 (2024)**
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NPJ 2023</div><img src='images/tcgpr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
