@@ -20,11 +20,17 @@ redirect_from:
 
 **CAO Bin 曹斌**
 
-is engaged in **AI4CM** computational materials research, specializing in crystal structure analysis and generation. He is keen to promote the unrestricted dissemination of knowledge and encourage **transparent and accessible** research.
+I am engaged in AI4CM (AI for Computational Materials) research, focusing on crystallography and spectroscopy.
+My research primarily includes physics-based diffraction pattern simulation, machine learning representations in spectrum-based sequence models, and crystal-based graph structures. My main areas of study are:
 
-My research interests include Physics-Informed Machine Learning Algorithms, X-ray diffraction, Simulation, Refinement, and Crystallography. [Google Scholar Citations](https://scholar.google.com/citations?user=XXCuRdoAAAAJ&hl=zh-CN)
++ Crystal structure representation for downstream property prediction and generation.
++ Spectrum representation for crystal structure and symmetry identification.
 
-I am currently studying at HKUST(GZ) under the supervision of Professor [Zhang Tong-yi](https://gbaaa.org.hk/en-us/article/67).
+In addition, I actively promote active learning applications in materials science by developing BGOlearn (Bayesian optimization package). I collaborate with experimental research teams and enhance the BGOlearn to advance the application of mature machine learning techniques in the materials community.
+
+I am passionate about open science and strongly advocate for the unrestricted dissemination of knowledge. To support this vision, I share all code from my research to ensure transparency and accessibility.
+
+Currently, I am pursuing my studies at HKUST(GZ) under the supervision of Professor [Zhang Tong-yi](https://gbaaa.org.hk/en-us/article/67).
 
 
 # 📝 Publications 
