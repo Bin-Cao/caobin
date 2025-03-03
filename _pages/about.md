@@ -26,7 +26,7 @@ My research primarily includes physics-based diffraction pattern simulation, mac
 + Crystal structure representation for downstream property prediction and generation.
 + Spectrum representation for crystal structure and symmetry identification.
 
-In addition, I actively promote active learning applications in materials science by developing BGOlearn (Bayesian optimization package). I collaborate with experimental research teams and enhance the BGOlearn to advance the application of mature machine learning techniques in the materials community.
+In addition, I actively promote active learning applications in materials science by developing [BGOlearn](https://github.com/Bin-Cao/Bgolearn) (Bayesian optimization package). I collaborate with experimental research teams and enhance the BGOlearn to advance the application of mature machine learning techniques in the materials community.
 
 I am passionate about open science and strongly advocate for the unrestricted dissemination of knowledge. To support this vision, I share all code from my research to ensure transparency and accessibility.
 
