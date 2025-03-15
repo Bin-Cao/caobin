@@ -20,7 +20,7 @@ redirect_from:
 
 **CAO Bin 曹斌**
 
-I am engaged in AI4CM (AI for Computational Materials) research, focusing on crystallography and spectroscopy.
+I am engaged in AI4CM (AI for Computational Materials) research, focusing on crystallography and spectroscopy ([http://www.caobin.asia](http://www.caobin.asia)).
 My research primarily includes physics-based diffraction pattern simulation, machine learning representations in spectrum-based sequence models, and crystal-based graph structures. My main areas of study are:
 
 + Crystal structure representation for downstream property prediction and generation.
