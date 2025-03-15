@@ -20,6 +20,10 @@ redirect_from:
 
 
 # 📝 Selected Publications (first/co-first)
+- `arXiv 2025` [opXRD: Open Experimental Powder X-ray Diffraction Database](https://arxiv.org/abs/2503.05577) Daniel Hollarek, Henrik Schopmans, Jona Östreicher, Jonas Teufel, **Bin Cao**, Adie Alwen, Simon Schweidler, Mriganka Singh, Tim Kodalle, Hanlin Hu, Gregoire Heymans, Maged Abdelsamie, Arthur Hardiagon, Alexander Wieczorek, Siarhei Zhuk, Ruth Schwaiger, Sebastian Siol, François-Xavier Coudert, Moritz Wolf, Carolin M. Sutter-Fella, Ben Breitung, Andrea M. Hodge, Tong-yi Zhang, Pascal Friederich. **Preprint** 
+
+- `JPS 2025` [Enhancing the performance of Li-rich oxide cathodes through multifunctional surface engineering](https://www.sciencedirect.com/science/article/pii/S0378775325005531?via%3Dihub) Tongxing Lei, Guolin Cao, Xiuling Shi, **Bin Cao**, Zhiyu Ding, Yu Bai, Junwei Wu, , Kaikai Li, Tongyi Zhang. **JPS** (JCR Q1)
+
 - `ICLR 2025` [SimXRD-4M: Big Simulated X-ray Diffraction Data and Crystal Symmetry Classification Benchmark](https://openreview.net/pdf?id=mkuB677eMM) **Bin Cao**,  Yang Liu, Zinan Zheng, Ruifeng Tan, Jia Li, Tong-yi Zhang. **ICLR2025** (Top-tier AI conference)
 
 
