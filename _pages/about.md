@@ -35,6 +35,24 @@ Currently, I am pursuing my studies at HKUST(GZ) under the supervision of Profes
 
 # 📝 Publications 
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Aggregate 2025</div><img src='images/aggregateshap.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  [Interpretable Active Learning Identifies Iron-Doped Carbon Dots With High Photothermal Conversion Efficiency for Antitumor Synergistic Therapy](https://onlinelibrary.wiley.com/doi/epdf/10.1002/agt2.70060)
+
+  Tianliang Li, **Bin Cao(co-first author)**,  Yitong Wang, Lixing Lin, ..., Lingyan Feng, Tong-yi Zhang
+
+  [**SHAP-AL**](https://github.com/Bin-Cao/ShapEV) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+  - We apply an interpretable AL strategy to efficiently optimize the photothermal conversion efficiency (PCE) of carbon dots (CDs) in photothermal therapy (PTT). Using this approach, we successfully synthesized irondoped CDs (Fe-CDs) with PCE exceeding 78.7% after only 16 experimental trials over four iterations.
+  </div>
+</div>
+- [Interpretable Active Learning Identifies Iron-Doped Carbon Dots With High Photothermal Conversion Efficiency for Antitumor Synergistic Therapy](https://onlinelibrary.wiley.com/doi/epdf/10.1002/agt2.70060) Tianliang Li, **Bin Cao(co-first author)**,  Yitong Wang, Lixing Lin, ..., Lingyan Feng, Tong-yi Zhang, **Aggregate** (JCR Q1)
+
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/simxrdiclr.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   [SimXRD-4M: Big Simulated X-ray Diffraction Data and Crystal Symmetry Classification Benchmark](https://openreview.net/pdf?id=mkuB677eMM)
