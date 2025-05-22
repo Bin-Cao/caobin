@@ -20,6 +20,8 @@ redirect_from:
 
 
 # 🔥 News
+- *2025.7*: 🎉🎉 I conduct a half-year research exchange at the Department of Physics, City University of Hong Kong, under the supervision of [Prof. Ren Yang](https://scholars.cityu.edu.hk/en/persons/yang-ren(7c17617b-dd79-43a0-ad19-b83053f4370a).html).
+- *2025.4*: 🎉🎉 My paper received the [2024 Best Paper Award](https://mp.weixin.qq.com/s/T5zgliCfTwcD-WqkcQefuA) from JMI.
 - *2024.11*: 🎉🎉 Successfully passed the Ph.D. qualification examination. Topic: Diffraction Theory-Informed AI for Crystal Analysis via Powder X-ray Diffraction
 - *2024.07*: 🎉🎉 Outstanding Young Academic Presentation Award at the [2024 China Materials Conference](https://gdstc.gd.gov.cn/gkmlpt/content/4/4455/post_4455625.html#726).
 - *2024.03*: 🎉🎉 Contributed to the material community by developing [MLMD](https://www.nature.com/articles/s41524-024-01243-4).
