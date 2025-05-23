@@ -36,6 +36,20 @@ Currently, I am pursuing my studies at HKUST(GZ) under the supervision of Profes
 # 📝 Publications 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Aggregate 2025</div><img src='images/mg_survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  [Materials Generation in the Era of Artificial Intelligence: A Comprehensive Survey](https://arxiv.org/pdf/2505.16379)
+
+  Zhixun Li, **Bin Cao(co-first author)**,  Rui Jiao(co-first author), Liang Wang(co-first author), Ding Wang, Yang Liu, Dingshuo Chen, Jia Li, Qiang Liu, Yu Rong, Liang Wang, Tong-Yi Zhang, Jeffrey Xu Yu
+  [**MatGen**](https://github.com/ZhixunLEE/Awesome-AI-for-Materials-Generation) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+  - We first organize various types of materials and illustrate multiple representations of crystalline materials. We then provide a detailed summary and taxonomy of current AI-driven materials generation approaches. Furthermore, we discuss the common evaluation metrics and summarize open-source codes and benchmark datasets. Finally, we conclude with potential future directions and challenges in this fast-growing field. 
+  </div>
+</div>
+- [Materials Generation in the Era of Artificial Intelligence: A Comprehensive Survey](https://arxiv.org/pdf/2505.16379) Zhixun Li, **Bin Cao(co-first author)**,  Rui Jiao(co-first author), Liang Wang(co-first author), Ding Wang, Yang Liu, Dingshuo Chen, Jia Li, Qiang Liu, Yu Rong, Liang Wang, Tong-Yi Zhang, Jeffrey Xu Yu, **arXiv**
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Aggregate 2025</div><img src='images/aggregateshap.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   [Interpretable Active Learning Identifies Iron-Doped Carbon Dots With High Photothermal Conversion Efficiency for Antitumor Synergistic Therapy](https://onlinelibrary.wiley.com/doi/epdf/10.1002/agt2.70060)

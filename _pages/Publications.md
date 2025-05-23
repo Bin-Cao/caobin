@@ -21,6 +21,9 @@ redirect_from:
 
 # 📝 Selected Publications (first/co-first)
 
+- `arXiv` [Materials Generation in the Era of Artificial Intelligence: A Comprehensive Survey](https://arxiv.org/pdf/2505.16379) Zhixun Li, **Bin Cao(co-first author)**,  Rui Jiao(co-first author), Liang Wang(co-first author), Ding Wang, Yang Liu, Dingshuo Chen, Jia Li, Qiang Liu, Yu Rong, Liang Wang, Tong-Yi Zhang, Jeffrey Xu Yu, **arXiv**
+
+
 - `Aggregate 2025` [Interpretable Active Learning Identifies Iron-Doped Carbon Dots With High Photothermal Conversion Efficiency for Antitumor Synergistic Therapy](https://onlinelibrary.wiley.com/doi/epdf/10.1002/agt2.70060) Tianliang Li, **Bin Cao(co-first author)**,  Yitong Wang, Lixing Lin, ..., Lingyan Feng, Tong-yi Zhang. **Aggregate** (JCR Q1)
 
 
