@@ -36,7 +36,7 @@ Currently, I am pursuing my studies at HKUST(GZ) under the supervision of Profes
 # 📝 Publications 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Aggregate 2025</div><img src='images/mg_survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/mg_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   [Materials Generation in the Era of Artificial Intelligence: A Comprehensive Survey](https://arxiv.org/pdf/2505.16379)
 
