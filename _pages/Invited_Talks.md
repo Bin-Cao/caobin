@@ -20,7 +20,7 @@ redirect_from:
 
 # 💬 Talks
 - *2025, 7*: Chinese Materials Conference 2025 (Session E06), Xiameng, Oral report. Topic : BGOLearn: An End-to-End Active Learning Framework for Materials Optimization, Cao Bin, HKUST(GZ)
-- *2025, 4*: The Thirteenth International Conference on Learning Representations (ICLR 2025), Singapore, Oral report. Topic : [SimXRD-4M: Big Simulated X-ray Diffraction Data and Crystal Symmetry Classification Benchmark](https://iclr.cc/virtual/2025/poster/28452), Cao Bin, HKUST(GZ)
+- *2025, 4*: The Thirteenth International Conference on Learning Representations (ICLR 2025), Singapore. Topic : [SimXRD-4M: Big Simulated X-ray Diffraction Data and Crystal Symmetry Classification Benchmark](https://iclr.cc/virtual/2025/poster/28452), Cao Bin, HKUST(GZ)
 - *2025,4*: Materials Research Conference 2025, Seattle USA, Oral report. Topic : [XQueryer—Intelligent Phase Identification for Powder X-Ray Diffraction](https://www.mrs.org/meetings-events/annual-meetings/archive/meeting/presentations/view/2025-mrs-spring-meeting/2025-mrs-spring-meeting-4205765), Cao Bin, HKUST(GZ)
 - *2024, 7*: Chinese Materials Conference 2024 (Session E06-5-1), Guangzhou, Oral report. Topic : AI Deciphers crystal Materials, Cao Bin, HKUST(GZ)
 - *2024, 6*: CATL-HKUST(GZ) AI Lab seminar, Oral report. Topic : intelligent characterization in the AI Lab Blueprint, Cao Bin, HKUST(GZ)
