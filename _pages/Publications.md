@@ -21,6 +21,9 @@ redirect_from:
 
 # 📝 Selected Publications (first/co-first)
 
+- `Advanced Intelligent Discovery` [opXRD: Open Experimental Powder X-Ray DiffractionDatabase](https://advanced.onlinelibrary.wiley.com/doi/epdf/10.1002/aidi.202500044) Daniel Hollarek,Henrik Schopmans, Jona Östreicher, Jonas Teufel, **Bin Cao**, ..., Tong-Yi Zhang, Pascal Friederich, **AID**
+
+
 - `arXiv` [Materials Generation in the Era of Artificial Intelligence: A Comprehensive Survey](https://arxiv.org/pdf/2505.16379) Zhixun Li, **Bin Cao(co-first author)**,  Rui Jiao(co-first author), Liang Wang(co-first author), Ding Wang, Yang Liu, Dingshuo Chen, Jia Li, Qiang Liu, Yu Rong, Liang Wang, Tong-Yi Zhang, Jeffrey Xu Yu, **arXiv**
 
 
