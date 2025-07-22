@@ -21,6 +21,9 @@ redirect_from:
 
 # 📝 Selected Publications (first/co-first)
 
+- `Scripta Materialia 2025` [Dissecting the chemical strain in inactive components of sodium-ion battery cathodes](https://www.sciencedirect.com/science/article/pii/S1359646225003434?dgcid=coauthor) Xiuling Shi, Jiaqi Zhu, Bingxu Chen, Bin Cao, Binfeng Lv, Zihan Wang, Sheng Sun, Kaikai Li, Tong-Yi Zhang. **Scripta Materialia** (JCR Q1)
+
+
 - `Advanced Intelligent Discovery` [opXRD: Open Experimental Powder X-Ray DiffractionDatabase](https://advanced.onlinelibrary.wiley.com/doi/epdf/10.1002/aidi.202500044) Daniel Hollarek,Henrik Schopmans, Jona Östreicher, Jonas Teufel, **Bin Cao**, ..., Tong-Yi Zhang, Pascal Friederich, **AID**
 
 
