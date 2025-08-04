@@ -19,9 +19,11 @@ redirect_from:
 <span class='anchor' id='-publications'></span>
 
 
-# 📝 Selected Publications (first/co-first)
+# 📝 Publications 
 
-- `Scripta Materialia 2025` [Dissecting the chemical strain in inactive components of sodium-ion battery cathodes](https://www.sciencedirect.com/science/article/pii/S1359646225003434?dgcid=coauthor) Xiuling Shi, Jiaqi Zhu, Bingxu Chen, Bin Cao, Binfeng Lv, Zihan Wang, Sheng Sun, Kaikai Li, Tong-Yi Zhang. **Scripta Materialia** (JCR Q1)
+- `MGE advances 2025` [Optimize the quantum yield of G‐quartet‐based circularly polarized luminescence materials via active learning strategy‐BgoFace](https://onlinelibrary.wiley.com/doi/epdf/10.1002/mgea.70031) Tianliang Li, Lifei Chen(co-first author) **Bin Cao(co-first author)**, Siyuan Liu,..., Tong-Yi Zhang*, Lingyan Feng* **MGE advances 2025** 
+
+- `Scripta Materialia 2025` [Dissecting the chemical strain in inactive components of sodium-ion battery cathodes](https://www.sciencedirect.com/science/article/pii/S1359646225003434?dgcid=coauthor) Xiuling Shi, Jiaqi Zhu, Bingxu Chen, **Bin Cao**, Binfeng Lv, Zihan Wang, Sheng Sun, Kaikai Li, Tong-Yi Zhang. **Scripta Materialia** (JCR Q1)
 
 
 - `Advanced Intelligent Discovery` [opXRD: Open Experimental Powder X-Ray DiffractionDatabase](https://advanced.onlinelibrary.wiley.com/doi/epdf/10.1002/aidi.202500044) Daniel Hollarek,Henrik Schopmans, Jona Östreicher, Jonas Teufel, **Bin Cao**, ..., Tong-Yi Zhang, Pascal Friederich, **AID**
@@ -42,7 +44,7 @@ redirect_from:
 
 - `SMALL 2024` [Machine Learning-Engineered Nanozyme System for Synergistic Anti-Tumor Ferroptosis/Apoptosis Therapy](https://onlinelibrary.wiley.com/doi/10.1002/smll.202408750) Tianliang Li, **Bin Cao(co-first author)**,  Tianhao Su, ..., Lingyan Feng, Tong-yi Zhang. **SMALL** (JCR Q1)
 
-- `JMI 2024` [CGWGAN: crystal generative framework based on Wyckoff generative adversarial network](https://www.oaepublish.com/articles/jmi.2024.24) Tianhao Su, **Bin Cao(co-first author)**, Shunbo Hu, Musen Li, Tong-yi Zhang. **JMI** (New journal led by my supervisor, Prof. Zhang Tongyi.)
+- `JMI 2024` [CGWGAN: crystal generative framework based on Wyckoff generative adversarial network](https://www.oaepublish.com/articles/jmi.2024.24) Tianhao Su, **Bin Cao(co-first author)**, Shunbo Hu, Musen Li, Tong-yi Zhang. **JMI** (JCR Q2 ｜ Editor-in-Chief ： Tong-Yi Zhang)
 
 - `JPS 2024` [A universal strategy towards high-rate and ultralong-life of Li-rich Mn- based cathode materials](https://www.sciencedirect.com/science/article/pii/S0378775324010966) Fu, W., Lei, T., **Cao, B.**, Shi, X., Zhang, Q., Ding, Z., ... & Wu, J.  **Journal of Power Sources** (JCR Q1)
 
@@ -69,5 +71,5 @@ redirect_from:
 
 - `JMST 2023` [Discovering a formula for the high temperature oxidation behavior of FeCrAlCoNi based high entropy alloys by domain knowledge-guided machine learning](https://www.sciencedirect.com/science/article/pii/S1005030223000622?via%3Dihub)Qinghua Wei, **Bin Cao**, Lucheng Deng, Ankang Sun, Ziqiang Dong, Tong-Yi Zhang (JCR Q1)
 
-- `JMI 2022` **(Cover paper)**[Domain knowledge-guided interpretive machine learning: formula discovery for the oxidation behavior of ferritic-martensitic steels in supercritical water](https://www.oaepublish.com/articles/jmi.2022.04) **Bin Cao**, Shuang Yang, Ankang Sun, Ziqiang Dong, Tong-Yi Zhang (New journal led by my supervisor, Prof. Zhang Tongyi.)
+- `JMI 2022` **(Cover paper)**[Domain knowledge-guided interpretive machine learning: formula discovery for the oxidation behavior of ferritic-martensitic steels in supercritical water](https://www.oaepublish.com/articles/jmi.2022.04) **Bin Cao**, Shuang Yang, Ankang Sun, Ziqiang Dong, Tong-Yi Zhang (JCR Q2 ｜ Editor-in-Chief ： Tong-Yi Zhang)
 

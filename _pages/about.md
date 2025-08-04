@@ -20,20 +20,44 @@ redirect_from:
 
 **CAO Bin 曹斌**
 
-I am engaged in AI4CM (AI for Computational Materials) research, focusing on crystallography and spectroscopy ([http://www.caobin.asia](http://www.caobin.asia)).
-My research primarily includes physics-based diffraction pattern simulation, machine learning representations in spectrum-based sequence models, and crystal-based graph structures. My main areas of study are:
 
-+ Crystal structure representation for downstream property prediction and generation.
-+ Spectrum representation for crystal structure and symmetry identification.
+I am working in **AI4CM (Artificial Intelligence for Computational Materials)**, with a focus on **crystallography** and **spectroscopy**. My research spans **physics-based diffraction pattern simulation**, **machine learning representations in spectrum-based sequence models**, and **graph-based modeling of crystal structures**. You can learn more on my personal website: [www.caobin.asia](http://www.caobin.asia).
 
-In addition, I actively promote active learning applications in materials science by developing [BGOlearn](https://github.com/Bin-Cao/Bgolearn) (Bayesian optimization package). I collaborate with experimental research teams and enhance the BGOlearn to advance the application of mature machine learning techniques in the materials community.
+🔬 Research Focus
 
-I am passionate about open science and strongly advocate for the unrestricted dissemination of knowledge. To support this vision, I share all code from my research to ensure transparency and accessibility.
+* **Crystal structure representation** for downstream **property prediction** and **material generation**.
+* **Spectral modeling and representation** for **crystal structure** and **symmetry identification**.
 
-Currently, I am pursuing my studies at HKUST(GZ) under the supervision of Professor [Zhang Tong-yi](https://gbaaa.org.hk/en-us/article/67).
+In parallel, I actively promote **active learning** in materials science through the development of [**BGOlearn**](https://github.com/Bin-Cao/Bgolearn), a Bayesian global optimization package tailored for materials design. Collaborating with experimental teams, I continuously enhance BGOlearn to bridge mature ML techniques with real-world scientific workflows.
+
+🌍 Open Science Advocacy
+
+I am passionate about **open science** and firmly support the **unrestricted sharing of knowledge**. To that end, I openly release the code and datasets from my research to ensure transparency, reproducibility, and community benefit.
+
+🎓 Academic Path
+
+I completed my MPhil under the supervision of [Prof. Zhang Tong-yi](https://gbaaa.org.hk/en-us/article/67) and am currently pursuing a PhD with him at **The Hong Kong University of Science and Technology (Guangzhou)** since 2023.
 
 
-# 📝 Publications 
+
+# 📝 Selected Publications (co-/first author)
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> MGE advances 2025 </div><img src='images/bgoface.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  [Optimize the quantum yield of G‐quartet‐based circularly polarized luminescence materials via active learning strategy‐BgoFace](https://onlinelibrary.wiley.com/doi/epdf/10.1002/mgea.70031)
+
+  Tianliang Li, Lifei Chen(co-first author) **Bin Cao(co-first author)**, Siyuan Liu,..., Tong-Yi Zhang*, Lingyan Feng*
+
+  [**BgoFace**](https://github.com/Bgolearn/BgoFace) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+  - This work developed an integrated AL software, BgoFace, which satisfies most material property optimization re-quirements. The application of BgoFace (with default setting) successfully accel-erated the discovery of G4-based CPL materials, achievingresults within six iterations and synthesizing 24 experimentalgroups. The final QY nearly doubled the initial best QY inthe training dataset. 
+
+  </div>
+</div>
+- [Optimize the quantum yield of G‐quartet‐based circularly polarized luminescence materials via active learning strategy‐BgoFace](https://onlinelibrary.wiley.com/doi/epdf/10.1002/mgea.70031) Tianliang Li, Lifei Chen(co-first author) **Bin Cao(co-first author)**, Siyuan Liu,..., Tong-Yi Zhang*, Lingyan Feng*, **MGE advances**
+
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2025</div><img src='images/mg_survey.png' alt="sym" width="100%"></div></div>
