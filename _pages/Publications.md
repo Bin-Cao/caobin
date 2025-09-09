@@ -21,7 +21,7 @@ redirect_from:
 
 # 📝 Publications 
 
-- `ACS nano 2025` [Ferromagnetic Surface Segregation via Stress-Concentration Coupling Boosts the Oxygen Evolution Reaction in RuO2]  Qin, Y., Deng, S., Zhou, X. Y., **Cao, B.**, Ying, Z., Yan, Z., ... & Zhang, T. Y.  **ACS nano 2025**.
+- `ACS nano 2025` [Ferromagnetic Surface Segregation via Stress-Concentration Coupling Boosts the Oxygen Evolution Reaction in RuO2](https://pubs.acs.org/doi/abs/10.1021/acsnano.5c06052)  Qin, Y., Deng, S., Zhou, X. Y., **Cao, B.**, Ying, Z., Yan, Z., ... & Zhang, T. Y.  **ACS nano 2025**.
 
 
 - `MGE advances 2025` [Optimize the quantum yield of G‐quartet‐based circularly polarized luminescence materials via active learning strategy‐BgoFace](https://onlinelibrary.wiley.com/doi/epdf/10.1002/mgea.70031) Tianliang Li, Lifei Chen(co-first author) **Bin Cao(co-first author)**, Siyuan Liu,..., Tong-Yi Zhang*, Lingyan Feng* **MGE advances 2025** 
