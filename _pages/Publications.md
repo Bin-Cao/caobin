@@ -21,6 +21,9 @@ redirect_from:
 
 # 📝 Publications 
 
+- `arXiv 2025` [BEYOND STRUCTURE: Invariant Crystal Property Prediction with Pseudo-Particle Ray Diffraction](https://arxiv.org/pdf/2509.21778)  **Bin Cao**, Yang Liu*, Longhan Zhang, Yifan Wu, Zhixun Li, Yuyu Luo, Hong Cheng, Yang Ren*, Tong-Yi Zhang*, **arXiv 2025**.
+
+
 - `ACS nano 2025` [Ferromagnetic Surface Segregation via Stress-Concentration Coupling Boosts the Oxygen Evolution Reaction in RuO2](https://pubs.acs.org/doi/abs/10.1021/acsnano.5c06052)  Qin, Y., Deng, S., Zhou, X. Y., **Cao, B.**, Ying, Z., Yan, Z., ... & Zhang, T. Y.  **ACS nano 2025**.
 
 

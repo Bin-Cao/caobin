@@ -42,6 +42,22 @@ I completed my MPhil under the supervision of [Prof. Zhang Tong-yi](https://gbaa
 
 # 📝 Selected Publications (co-/first author)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> PRDNet </div><img src='images/PRDNet.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  [BEYOND STRUCTURE: Invariant Crystal Property Prediction with Pseudo-Particle Ray Diffraction](https://arxiv.org/pdf/2509.21778)
+
+  **Bin Cao**, Yang Liu*, Longhan Zhang, Yifan Wu, Zhixun Li, Yuyu Luo, Hong Cheng, Yang Ren*, Tong-Yi Zhang*
+
+  [**PRDNet**](https://arxiv.org/pdf/2509.21778) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+  - We propose PRDNet, a novel architecture that integrates graph embeddings with a learned pseudoparticle diffraction module. It generates synthetic diffraction patterns that are invariant to crystallographic symmetries. We extensively evaluate PRDNet on multiple large-scale benchmarks, including Materials Project, JARVIS-DFT, and MatBench. Our model achieves state-of-the-art performance across a wide range of crystal property prediction tasks, demonstrating its effectiveness.
+
+  </div>
+</div>
+- [BEYOND STRUCTURE: Invariant Crystal Property Prediction with Pseudo-Particle Ray Diffraction](https://arxiv.org/pdf/2509.21778) **Bin Cao**, Yang Liu*, Longhan Zhang, Yifan Wu, Zhixun Li, Yuyu Luo, Hong Cheng, Yang Ren*, Tong-Yi Zhang*, **arXiv**
+
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> MGE advances 2025 </div><img src='images/bgoface.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
