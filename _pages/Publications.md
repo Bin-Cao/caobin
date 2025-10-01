@@ -20,6 +20,8 @@ redirect_from:
 
 
 # 📝 Publications 
+- `Natl. Sci. Rev. 2025` [XQueryer: an intelligent crystal structure identifier for powder X-ray diffraction](https://doi.org/10.1093/nsr/nwaf421) **Bin Cao**, Zinan Zheng, Yang Liu, Longhan Zhang, Lawrence W-Y Wong, LuTao Weng, Jia Li*, Haoxiang Li*, Tong-Yi Zhang*, **Natl. Sci. Rev. 2025**
+
 
 - `arXiv 2025` [BEYOND STRUCTURE: Invariant Crystal Property Prediction with Pseudo-Particle Ray Diffraction](https://arxiv.org/pdf/2509.21778)  **Bin Cao**, Yang Liu*, Longhan Zhang, Yifan Wu, Zhixun Li, Yuyu Luo, Hong Cheng, Yang Ren*, Tong-Yi Zhang*, **arXiv 2025**.
 

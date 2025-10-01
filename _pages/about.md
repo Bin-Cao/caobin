@@ -42,6 +42,24 @@ I completed my MPhil under the supervision of [Prof. Zhang Tong-yi](https://gbaa
 
 # 📝 Selected Publications (co-/first author)
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> XQueryer </div><img src='images/XQueryer.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  [XQueryer: an intelligent crystal structure identifier for powder X-ray diffraction](https://doi.org/10.1093/nsr/nwaf421)
+
+  **Bin Cao**, Zinan Zheng, Yang Liu, Longhan Zhang, Lawrence W-Y Wong, LuTao Weng, Jia Li, Haoxiang Li, Tong-Yi Zhang*.
+
+  [**XQueryer**](https://doi.org/10.1093/nsr/nwaf421) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+  - We developed XQueryer, an intelligent agent for simulating, recognizing, and analyzing powder X-ray diffraction (PXRD) patterns. Trained on over two million high-fidelity simulated spectra, XQueryer achieves significantly higher accuracy—28.9% better than existing AI models and traditional methods. Integrated with a powder diffractometer, it enables real-time structural analysis of crystal samples.
+
+  </div>
+</div>
+- [XQueryer: an intelligent crystal structure identifier for powder X-ray diffraction](https://doi.org/10.1093/nsr/nwaf421) **Bin Cao**, Zinan Zheng, Yang Liu, Longhan Zhang, Lawrence W-Y Wong, LuTao Weng, Jia Li, Haoxiang Li, Tong-Yi Zhang*, **Natl. Sci. Rev.**
+
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> PRDNet </div><img src='images/PRDNet.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   [BEYOND STRUCTURE: Invariant Crystal Property Prediction with Pseudo-Particle Ray Diffraction](https://arxiv.org/pdf/2509.21778)
