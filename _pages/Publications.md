@@ -21,7 +21,7 @@ redirect_from:
 
 # 📝 Publications 
 - `Advanced Materials 2025` [Metal–Insulator Transition Driven by the Interplay of Vacancies and Charge Orders in Square‐Net Materials GdSbxTe2‐x‐δ](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202510303?af=R) Qun Wang et al., **Advanced Materials 2025**
-- 
+
 
 - `Natl. Sci. Rev. 2025` [XQueryer: an intelligent crystal structure identifier for powder X-ray diffraction](https://doi.org/10.1093/nsr/nwaf421) **Bin Cao**, Zinan Zheng, Yang Liu, Longhan Zhang, Lawrence W-Y Wong, LuTao Weng, Jia Li*, Haoxiang Li*, Tong-Yi Zhang*, **Natl. Sci. Rev. 2025**
 
