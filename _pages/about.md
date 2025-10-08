@@ -36,7 +36,7 @@ I am passionate about **open science** and firmly support the **unrestricted sha
 
 🎓 Academic Path
 
-I completed my MPhil under the supervision of [Prof. Zhang Tong-yi](https://gbaaa.org.hk/en-us/article/67) and am currently pursuing a PhD with him at **The Hong Kong University of Science and Technology (Guangzhou)** since 2023.
+I completed my MPhil under the supervision of [Prof. Zhang Tong-Yi](https://english.casad.cas.cn/members/casm/dots/202404/t20240418_660476.html) and am currently pursuing a PhD with him at **The Hong Kong University of Science and Technology (Guangzhou)** since 2023.
 
 
 
