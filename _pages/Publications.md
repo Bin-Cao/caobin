@@ -20,10 +20,13 @@ redirect_from:
 
 
 # 📝 Publications 
-- `Advanced Materials 2025` [Metal–Insulator Transition Driven by the Interplay of Vacancies and Charge Orders in Square‐Net Materials GdSbxTe2‐x‐δ](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202510303?af=R) Qun Wang et al., **Advanced Materials 2025**
+- `Angewandte Chemie 2025` [First‐Order Phase Transformation in Highly Concentrated Electrolyte for High‐Rate and Long‐Cycle Aqueous Zn‐Ion Battery](https://doi.org/10.1002/anie.202520628) Xiuling Shi, Yuchuan Sun, **Bin Cao** et al., **Angewandte Chemie 2025** (JCR Q1)
 
 
-- `Natl. Sci. Rev. 2025` [XQueryer: an intelligent crystal structure identifier for powder X-ray diffraction](https://doi.org/10.1093/nsr/nwaf421) **Bin Cao**, Zinan Zheng, Yang Liu, Longhan Zhang, Lawrence W-Y Wong, LuTao Weng, Jia Li*, Haoxiang Li*, Tong-Yi Zhang*, **Natl. Sci. Rev. 2025**
+- `Advanced Materials 2025` [Metal–Insulator Transition Driven by the Interplay of Vacancies and Charge Orders in Square‐Net Materials GdSbxTe2‐x‐δ](https://advanced.onlinelibrary.wiley.com/doi/10.1002/adma.202510303?af=R) Qun Wang et al., **Advanced Materials 2025** (JCR Q1)
+
+
+- `Natl. Sci. Rev. 2025` [XQueryer: an intelligent crystal structure identifier for powder X-ray diffraction](https://doi.org/10.1093/nsr/nwaf421) **Bin Cao**, Zinan Zheng, Yang Liu, Longhan Zhang, Lawrence W-Y Wong, LuTao Weng, Jia Li*, Haoxiang Li*, Tong-Yi Zhang*, **Natl. Sci. Rev. 2025** (JCR Q1)
 
 
 - `arXiv 2025` [BEYOND STRUCTURE: Invariant Crystal Property Prediction with Pseudo-Particle Ray Diffraction](https://arxiv.org/pdf/2509.21778)  **Bin Cao**, Yang Liu*, Longhan Zhang, Yifan Wu, Zhixun Li, Yuyu Luo, Hong Cheng, Yang Ren*, Tong-Yi Zhang*, **arXiv 2025**.
