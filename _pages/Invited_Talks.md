@@ -19,6 +19,7 @@ redirect_from:
 <span class='anchor' id='-invited-talks'></span>
 
 # 💬 Talks
+- *2025, 11*: International forum of materials genome engineering 2025, Xi'an, Oral report. Topic : Intelligent Structure Identification of Powder X-ray Diffraction Patterns, Cao Bin, HKUST(GZ)
 - *2025, 7*: Chinese Materials Conference 2025 (Session E06), Xiameng, Oral report. Topic : [BGOLearn: An End-to-End Active Learning Framework for Materials Optimization](https://cmc2025.scimeeting.cn/cn/web/speaker-detail/27167?user_id=ZXvycJpgjG2WSbabyEmiSA_d_d), Cao Bin, HKUST(GZ)
 - *2025, 4*: The Thirteenth International Conference on Learning Representations (ICLR 2025), Singapore. Topic : [SimXRD-4M: Big Simulated X-ray Diffraction Data and Crystal Symmetry Classification Benchmark](https://iclr.cc/virtual/2025/poster/28452), Cao Bin, HKUST(GZ)
 - *2025,4*: Materials Research Conference 2025, Seattle USA, Oral report. Topic : [XQueryer—Intelligent Phase Identification for Powder X-Ray Diffraction](https://www.mrs.org/meetings-events/annual-meetings/archive/meeting/presentations/view/2025-mrs-spring-meeting/2025-mrs-spring-meeting-4205765), Cao Bin, HKUST(GZ)
