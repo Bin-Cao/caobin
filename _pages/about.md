@@ -21,22 +21,7 @@ redirect_from:
 **CAO Bin 曹斌**
 
 
-I am working in **AI4CM (Artificial Intelligence for Computational Materials)**, with a focus on **crystallography** and **spectroscopy**. My research spans **physics-based diffraction pattern simulation**, **machine learning representations in spectrum-based sequence models**, and **graph-based modeling of crystal structures**. You can learn more on my personal website: [www.caobin.asia](http://www.caobin.asia).
-
-🔬 Research Focus
-
-* **Crystal structure representation** for downstream **property prediction** and **material generation**.
-* **Spectral modeling and representation** for **crystal structure** and **symmetry identification**.
-
-In parallel, I actively promote **active learning** in materials science through the development of [**BGOlearn**](https://github.com/Bin-Cao/Bgolearn), a Bayesian global optimization package tailored for materials design. Collaborating with experimental teams, I continuously enhance BGOlearn to bridge mature ML techniques with real-world scientific workflows.
-
-🌍 Open Science Advocacy
-
-I am passionate about **open science** and firmly support the **unrestricted sharing of knowledge**. To that end, I openly release the code and datasets from my research to ensure transparency, reproducibility, and community benefit.
-
-🎓 Academic Path
-
-I completed my MPhil under the supervision of [Prof. Zhang Tong-Yi](https://english.casad.cas.cn/members/casm/dots/202404/t20240418_660476.html) and am currently pursuing a PhD with him at **The Hong Kong University of Science and Technology (Guangzhou)** since 2023.
+Bin Cao received his Bachelor’s, MPhil, and PhD degrees from [Beijing University of Chemical Technology](https://www.buct.edu.cn/main.htm), [Shanghai University](https://www.shu.edu.cn/) (supervisor : [Prof. ZHANG Tong-Yi](https://english.casad.cas.cn/members/casm/dots/202404/t20240418_660476.html)), and [The Hong Kong University of Science and Technology (Guangzhou)](https://www.hkust-gz.edu.cn/) (supervisor : [Prof. ZHANG Tong-Yi](https://english.casad.cas.cn/members/casm/dots/202404/t20240418_660476.html)) in 2020, 2023, and 2026 (expected), respectively. His research focuses on artificial intelligence for materials science, with particular emphasis on crystallography and spectroscopy. He has developed a series of machine learning algorithms for crystal structure determination ([XQueryer](https://github.com/Bin-Cao/XQueryer)), crystal property prediction(PRDNet), and novel crystal discovery([SimXRD](https://github.com/Bin-Cao/SimXRD)). He has published high-impact **first-author** research papers in *National Science Review*, *Science Bulletin*, *npj Computational Materials*, among other journals, and has also presented work at top-tier AI conferences such as *ICLR*. In 2025, he received support from the Shanghai Artificial Intelligence Open Source Award Project Support Plan as [principle developer](https://github.com/Bin-Cao/Bgolearn/blob/main/figures/funding.png), with RMB 500,000 in funding for the development of the [Bgolearn](https://github.com/Bin-Cao/Bgolearn) platform.
 
 
 
