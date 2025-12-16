@@ -27,6 +27,22 @@ Bin Cao received his Bachelor’s, MPhil, and PhD degrees from [Beijing Universi
 
 # 📝 Selected Publications (co-/first author)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"> VSGenerator </div><img src='images/scibull.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  [Spatial-adaptive active learning identifies ultra-durable and highly active catalysts for acidic oxygen evolution reaction](https://www.sciencedirect.com/science/article/pii/S2095927325012678?via%3Dihub)
+
+  **Bin Cao**, Yin Qi*, Yan Luo, Zhehan Ying, Zilin Yan, Lu-Tao Weng, Kaikai Li*, Tong-Yi Zhang*.
+
+  [**VSGenerator**](https://github.com/Bgolearn/VSGenerator) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+
+  - Here, we present a **spatially adaptive active-learning framework** with **closed-loop experimentation** for targeted catalyst optimization. Bayesian optimization and a conditional variational autoencoder first identify a low-overpotential stability subspace, followed by active learning to pinpoint the most stable candidate. This strategy leads to the discovery of a **Cu–RuO₂ catalyst** with outstanding durability (**625 h**) and a low overpotential of **177 mV at 10 mA cm⁻²**. Our results highlight an efficient AI-driven pathway for accelerating the design of stable acidic OER catalysts.
+
+</div>
+</div>
+- [Spatial-adaptive active learning identifies ultra-durable and highly active catalysts for acidic oxygen evolution reaction](https://www.sciencedirect.com/science/article/pii/S2095927325012678?via%3Dihub) **Bin Cao**, Yin Qi*, Yan Luo, Zhehan Ying, Zilin Yan, Lu-Tao Weng, Kaikai Li*, Tong-Yi Zhang*. **Science Bulletin**
+
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"> XQueryer </div><img src='images/XQueryer.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
