@@ -20,7 +20,7 @@ redirect_from:
 
 
 # 📝 Publications 
-- `Science Bulletin 2025` [Spatial-adaptive active learning identifies ultra-durable and highly active catalysts for acidic oxygen evolution reaction](https://www.sciencedirect.com/science/article/pii/S2095927325012678?via%3Dihub) **Bin Cao**, Yin Qi*, Yan Luo, Zhehan Ying, Zilin Yan, Lu-Tao Weng, Kaikai Li*, Tong-Yi Zhang*. **Science Bulletin** (JCR Q1)
+- `Science Bulletin 2025` [Spatial-adaptive active learning identifies ultra-durable and highly active catalysts for acidic oxygen evolution reaction](https://www.sciencedirect.com/science/article/pii/S2095927325012678?via%3Dihub) **Bin Cao**, Yin Qi+, Yan Luo, Zhehan Ying, Zilin Yan, Lu-Tao Weng, Kaikai Li+, Tong-Yi Zhang+. **Science Bulletin** (JCR Q1)
 
 
 - `Angewandte Chemie 2025` [First‐Order Phase Transformation in Highly Concentrated Electrolyte for High‐Rate and Long‐Cycle Aqueous Zn‐Ion Battery](https://doi.org/10.1002/anie.202520628) Xiuling Shi, Yuchuan Sun, **Bin Cao** et al., **Angewandte Chemie 2025** (JCR Q1)

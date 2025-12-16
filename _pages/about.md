@@ -31,7 +31,7 @@ Bin Cao received his Bachelor’s, MPhil, and PhD degrees from [Beijing Universi
 <div class='paper-box-text' markdown="1">
   [Spatial-adaptive active learning identifies ultra-durable and highly active catalysts for acidic oxygen evolution reaction](https://www.sciencedirect.com/science/article/pii/S2095927325012678?via%3Dihub)
 
-  **Bin Cao**, Yin Qi*, Yan Luo, Zhehan Ying, Zilin Yan, Lu-Tao Weng, Kaikai Li*, Tong-Yi Zhang*.
+  **Bin Cao**, Yin Qi+, Yan Luo, Zhehan Ying, Zilin Yan, Lu-Tao Weng, Kaikai Li+, Tong-Yi Zhang+.
 
   [**VSGenerator**](https://github.com/Bgolearn/VSGenerator) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 
@@ -39,7 +39,7 @@ Bin Cao received his Bachelor’s, MPhil, and PhD degrees from [Beijing Universi
 
 </div>
 </div>
-- [Spatial-adaptive active learning identifies ultra-durable and highly active catalysts for acidic oxygen evolution reaction](https://www.sciencedirect.com/science/article/pii/S2095927325012678?via%3Dihub) **Bin Cao**, Yin Qi*, Yan Luo, Zhehan Ying, Zilin Yan, Lu-Tao Weng, Kaikai Li*, Tong-Yi Zhang*. **Science Bulletin**
+- [Spatial-adaptive active learning identifies ultra-durable and highly active catalysts for acidic oxygen evolution reaction](https://www.sciencedirect.com/science/article/pii/S2095927325012678?via%3Dihub) **Bin Cao**, Yin Qi+, Yan Luo, Zhehan Ying, Zilin Yan, Lu-Tao Weng, Kaikai Li+, Tong-Yi Zhang+. **Science Bulletin**
 
 
 
