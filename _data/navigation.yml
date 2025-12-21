@@ -1,25 +1,28 @@
-# main links
+# main links 
 main:
-  - title: "About"
-    url: "/caobin/#about-me"
+  - title: "about"
+    url: "/caobin/about-me"
 
   - title: "News"
-    url: "/caobin/#news"
-
-  - title: "Education"
-    url: "/caobin/#educations"
-
-  - title: "Awards"
-    url: "/caobin/#honors-and-awards"
-
-  - title: "Talks"
-    url: "/caobin/#invited-talks"
+    url: "/caobin/-news"
 
   - title: "Service"
-    url: "/caobin/#service"
+    url: "/caobin/-Service"
 
   - title: "Publications"
-    url: "/caobin/#publications"
+    url: "/caobin/-publications"
+
+  - title: "Honors and Awards"
+    url: "/caobin/-honors-and-awards"
+
+  - title: "Educations"
+    url: "/caobin/-educations"
+
+  - title: "Talks"
+    url: "/caobin/-invited-talks"
+
+  - title: "Internships"
+    url: "/caobin/-internships"
 
   - title: "Project"
-    url: "/caobin/#wpem"
+    url: "/caobin/-wpem"
