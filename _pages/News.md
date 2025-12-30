@@ -19,8 +19,8 @@ redirect_from:
 <span class='anchor' id='-news'></span>
 
 
-# 🔥 News
-
+# News
+- *2026.1-7*: Internship at [Shanghai AI Lab](https://www.shlab.org.cn/), mentored by [Dr. Hao Hongxia](https://hongxiahao91.github.io/).
 - *2025.12*: I am invited to attend the CCF ChinaData 2025 Conference on [AI for Science](https://ccf.org.cn/chinadata2025/schedule_d_4038).
 - *2025.07*: I am honored to have received two awards: the Invited Academic Talk by Promising Young Talent award and the High-Level Academic Poster. [2025 China Materials Conference](https://cmc2025.scimeeting.cn/cn/web/speaker-detail/27167?user_id=ZXvycJpgjG2WSbabyEmiSA_d_d).
 - *2025.7-12*: A six-month research exchange at the Department of Physics, City University of Hong Kong, under the supervision of [Prof. Ren Yang](https://scholars.cityu.edu.hk/en/persons/yang-ren(7c17617b-dd79-43a0-ad19-b83053f4370a).html).
