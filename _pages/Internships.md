@@ -19,4 +19,5 @@ redirect_from:
 <span class='anchor' id='-internships'></span>
 
 # 💻 Internships
-- *2023.03 - 2023.09*: [Zhejiang Lab](https://www.zhejianglab.cn/lab/home), China.
+- *2023.03 - 2023.09*: [Zhejiang Lab](https://www.zhejianglab.cn/lab/home), Hangzhou, China.
+- *2026.01 - 2026.07*: [Shanghai AI Lab](https://www.shlab.org.cn/), Shanghai,China.
